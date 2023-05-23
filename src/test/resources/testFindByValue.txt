@@ -21,6 +21,7 @@ location: Portland
 core competency: Ruby
 *****
 
+
 *****
 position type: Web - Full Stack
 name: Full Stack Engineer
@@ -28,6 +29,7 @@ employer: Splitwise
 location: Rhode Island
 core competency: Ruby
 *****
+
 
 *****
 position type: Other
@@ -37,6 +39,7 @@ location: New York
 core competency: Ruby, Javascript
 *****
 
+
 *****
 position type: Web - Back End
 name: Ruby specialist
@@ -44,6 +47,7 @@ employer: LaunchCode
 location: Saint Louis
 core competency: Javascript
 *****
+
 
 View jobs by (type 'x' to quit):
 0 - Search
